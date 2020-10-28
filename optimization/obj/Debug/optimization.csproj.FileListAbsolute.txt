@@ -1,0 +1,14 @@
+C:\Users\HY\source\repos\optimization\optimization\bin\Debug\optimization.exe.config
+C:\Users\HY\source\repos\optimization\optimization\bin\Debug\optimization.exe
+C:\Users\HY\source\repos\optimization\optimization\bin\Debug\optimization.pdb
+C:\Users\HY\source\repos\optimization\optimization\obj\Debug\optimization.csprojAssemblyReference.cache
+C:\Users\HY\source\repos\optimization\optimization\obj\Debug\optimization.csproj.CoreCompileInputs.cache
+C:\Users\HY\source\repos\optimization\optimization\obj\Debug\optimization.exe
+C:\Users\HY\source\repos\optimization\optimization\obj\Debug\optimization.pdb
+C:\Users\HY\Dropbox\Optimization\optimization\bin\Debug\optimization.exe.config
+C:\Users\HY\Dropbox\Optimization\optimization\bin\Debug\optimization.exe
+C:\Users\HY\Dropbox\Optimization\optimization\bin\Debug\optimization.pdb
+C:\Users\HY\Dropbox\Optimization\optimization\obj\Debug\optimization.csprojAssemblyReference.cache
+C:\Users\HY\Dropbox\Optimization\optimization\obj\Debug\optimization.csproj.CoreCompileInputs.cache
+C:\Users\HY\Dropbox\Optimization\optimization\obj\Debug\optimization.exe
+C:\Users\HY\Dropbox\Optimization\optimization\obj\Debug\optimization.pdb
